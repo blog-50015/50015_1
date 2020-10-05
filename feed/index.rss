@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Advokatės Gylytės-Masaitienės kontora</title>
+	<atom:link href="https://www.masaitiene.lt/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.masaitiene.lt</link>
+	<description>Jūsų patarėjas teisiniais klausimais</description>
+	<lastBuildDate>Wed, 06 May 2020 21:17:40 +0000</lastBuildDate>
+	<language>lt-LT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+
+<image>
+	<url>https://i1.wp.com/www.masaitiene.lt/wp-content/uploads/2019/09/cropped-pasaulis2-e1568830334579-2.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Advokatės Gylytės-Masaitienės kontora</title>
+	<link>https://www.masaitiene.lt</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">168983288</site>	<item>
+		<title>Specializuojamės nekilnojamojo turto teisės klausimais</title>
+		<link>https://www.masaitiene.lt/specializuojames-nekilnojamojo-turto-teises-klausimais/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 06 May 2020 20:58:22 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[auksciausias teismas]]></category>
+		<category><![CDATA[kasacinis skundas]]></category>
+		<category><![CDATA[LAT]]></category>
+		<category><![CDATA[nekilnojamojo turto teise]]></category>
+		<category><![CDATA[NT advokatas]]></category>
+		<guid isPermaLink="false">https://www.masaitiene.lt/?p=251</guid>
+
+					<description><![CDATA[Naujausi laimėjimai: Lietuvos Aukščiausiajame Teisme pateikę kasacinį skundą apgynėme savo kliento interesus ginče su žemės sklypo bendrasavininku dėl nekilnojamojo turto registro duomenų keitimo ir naudojimosi žemės sklypu tvarkos. Žemės sklypo bendrasavininkas siekė įregistruoti naują žemės sklypo planą, kuriame būtų panaikintos ribos tarp žemės sklypo bendrasavininkų bei plane atvaizduotos bendrojo naudojimo teritorijos. Mūsų klientui atsisakius pasirašyti [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Naujausi laimėjimai: </p>
+
+
+
+<p>Lietuvos Aukščiausiajame Teisme pateikę kasacinį skundą apgynėme savo kliento interesus ginče su žemės sklypo bendrasavininku dėl nekilnojamojo turto registro duomenų keitimo ir naudojimosi žemės sklypu tvarkos. Žemės sklypo bendrasavininkas siekė įregistruoti naują žemės sklypo planą, kuriame būtų panaikintos ribos tarp žemės sklypo bendrasavininkų bei plane atvaizduotos bendrojo naudojimo teritorijos. Mūsų klientui atsisakius pasirašyti naujus planus, bendrasavininkas kreipėsi į teismą. Pirmosios ir apeliacinės instancijos teismai palaikė ieškovą ir leido įregistruoti naujus planus, nematydami grėsmės mūsų atstovaujamojo interesams. Mūsų kontorai pateikus kasacinį skundą Lietuvos Aukščiausiasis Teismas galutine ir neskundžiama&nbsp; nutartimi patenkino kasacinį skundą ir visiškai atmetė ieškovo ieškinį mūsų atstovaujamo atsakovo atžvilgiu. Žemesnių instancijų teismų sprendimai buvo panaikinti ir Lietuvos Aukščiausiojo Teismo konstatuota, kad žemesnių instancijų teismai padarė neteisingas išvadas, kad naujai parengtas planas nepanaikina ankstesnio plano, o vidinių žemės sklypo ribų nenurodymas iš esmės paneigia esančią tarp šalių naudojimosi žemės sklypu tvarką, nesant teisinio pagrindo ir atsakovės pritarimo, todėl atsakovės nepritarimas ieškovų parengtam planui pripažintinas teisėtu ir dėl to nėra pagrindo leisti ieškovams įregistruoti sklypo planą be atsakovės sutikimo.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">251</post-id>	</item>
+	</channel>
+</rss>
